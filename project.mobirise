@@ -177,8 +177,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">THE GLOBAL SOURCING B2B MARKETPLACE: <br>FOR INNOVATIVE &amp; BIGGEST BRANDS</span>",
-          "text": "\u001bBRAND JOYS IS A WHOLESALER SOURCING GLOBAL NETWORK, CONNECTING INNOVATIVE AND BIGGEST BRANDS COMMUNITIES WITH ETHICAL AND TRENDSETTER FABRICS, MANUFACTURERS AND INTERNATIONAL RETAILERS.<br><br><span style=\"font-style: normal;\"><b>REGISTER HERE:</b></span><br>",
+          "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">THE GLOBAL INNOVATIVE SOURCING B2B MARKETPLACE: FOR BRANDS AND RETAILERS</span>",
+          "text": "\u001bBRAND JOYS IS A WHOLESALER SOURCING GLOBAL NETWORK CONNECTING INNOVATIVE BRANDS WITH ETHICAL FABRICS, MANUFACTURERS AND INTERNATIONAL RETAILERS.<br><br><span style=\"font-style: normal;\"><b>REGISTER HERE:</b></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">BRANDS SOURCING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">TEXTILES SOURCING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">MANUFACTURES SOURCING</a>   "
         },
         {
@@ -399,7 +399,7 @@
           "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1u\" aria-expanded=\"false\">Fashion categories</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1u\" aria-expanded=\"false\">Raw materials categories</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1u\" aria-expanded=\"true\">Manufacturing &amp; Services</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1u\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1u\" aria-expanded=\"true\">caAccessories</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1u\">Beautiful</a></li>",
           "title1": "FOR MEN, WOMAN, UNISEX AND KIDS: <br>SUSTAINABLE, INNOVATIVE AND CONVENTIONAL APPARELS.",
           "text1": "",
-          "title2": "CONVENTIONAL TEXTILES, E-TEXTILES, ECO-TEXTILES, RECYCLED TEXTILES, ELECTRONIC COMPONENTS, HABERDASHERY.",
+          "title2": "CONVENTIONAL TEXTILES, E-TEXTILES, ECO-TEXTILES, RECYCLED TEXTILES, ELECTRONIC COMPONENTS AND HABERDASHERY.",
           "text2": "",
           "title3": "SAMPLING, PROTOTYPE SAMPLING, TECHNICAL DETAIL, 3D PRINTING, DIGITIZING, PATTERN MAKING AND OTHERS.&nbsp;",
           "text3": "&nbsp;",
@@ -878,7 +878,7 @@
             }
           },
           "title1": "1. SOURCE",
-          "text1": "&nbsp;Source innovative and concentional raw materials. Ask for swatches.&nbsp;<br>",
+          "text1": "&nbsp;Source innovative and conventional raw materials. Ask for swatches.&nbsp;<br>",
           "date2": "",
           "title2": "2. MANUFACTURE",
           "text2": "Find your manufacturer, make your prototype sampling and product directly your apparel and accessories. Choose your label.&nbsp;<br>",
