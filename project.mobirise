@@ -1,0 +1,3359 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "BRAND JOYS ARNAUD V1",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#7e9b9f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 111,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "file:///E:/MOBIRISE",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-37.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/line-sheets.html\" aria-expanded=\"true\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "13px"
+            },
+            ".mbr-section-lead": {
+              "color": "#bdcbce",
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#7e9b9f",
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">THE GLOBAL SOURCING B2B MARKETPLACE: <br>FOR INNOVATIVE &amp; BIGGEST BRANDS</span>",
+          "text": "\u001bBRAND JOYS IS A WHOLESALER SOURCING GLOBAL NETWORK, CONNECTING INNOVATIVE AND BIGGEST BRANDS COMMUNITIES WITH ETHICAL AND TRENDSETTER FABRICS, MANUFACTURERS AND INTERNATIONAL RETAILERS.<br><br><span style=\"font-style: normal;\"><b>REGISTER HERE:</b></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">BRANDS SOURCING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">TEXTILES SOURCING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">MANUFACTURES SOURCING</a>   "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<br>USERS: <br>FOR BUYER, SUPPLIER, MANUFACTURER AND SELLER &nbsp;",
+          "meta": "Complete Supply chain"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "H4": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "features6-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": " #",
+              "size": 0,
+              "color": "#4c6972",
+              "newWindow": false
+            }
+          },
+          "title1": "FOR EMMERGING &amp;&nbsp;INNOVATIVE BRANDS",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Sell amongst the world's best retailers <br>and source the best innovative textiles and fabrics.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/user/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SELL &amp; BUY</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "calendar",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#4c6972",
+              "newWindow": false
+            }
+          },
+          "title2": "FOR INNOVATIVE TEXTILES FABRICS",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Sell ecological , smart textiles and <br>raw materials to innovative brands and fashion houses.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/supplier/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SELL</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#4c6972",
+              "newWindow": false
+            }
+          },
+          "title3": "FOR INTERNATIONAL RETAILERS",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<br>Source and connect with emmerging&nbsp;<br>and innovative brands with negotiated<br>rates.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#4c6972",
+              "newWindow": false
+            }
+          },
+          "title4": "FOR INTERNATIONAL MANUFACTURERS",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Sell your service to international brands.<br>Connect with brands looking for manufacturing. <br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/supplier/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SELL</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            "SMALL": {
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "SOURCING CATEGORIES",
+          "meta": "By Brands and retailers"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTabs1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extTabs1-1u",
+          "_params": {
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#151515",
+            "showTitles": true
+          },
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1u\" aria-expanded=\"false\">Fashion categories</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1u\" aria-expanded=\"false\">Raw materials categories</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1u\" aria-expanded=\"true\">Manufacturing &amp; Services</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1u\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1u\" aria-expanded=\"true\">caAccessories</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1u\">Beautiful</a></li>",
+          "title1": "FOR MEN, WOMAN, UNISEX AND KIDS: <br>SUSTAINABLE, INNOVATIVE AND CONVENTIONAL APPARELS.",
+          "text1": "",
+          "title2": "CONVENTIONAL TEXTILES, E-TEXTILES, ECO-TEXTILES, RECYCLED TEXTILES, ELECTRONIC COMPONENTS, HABERDASHERY.",
+          "text2": "",
+          "title3": "SAMPLING, PROTOTYPE SAMPLING, TECHNICAL DETAIL, 3D PRINTING, DIGITIZING, PATTERN MAKING AND OTHERS.&nbsp;",
+          "text3": "&nbsp;",
+          "title4": "Tab heading 4",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title5": "Tab heading 5",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title6": "Tab heading 6",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "B2B FASHION MARKETPLACE: <br>DISCOVER INNOVATIVE BRANDS, SOURCE, TRANSACT &amp; EVOLVE YOUR NETWORK",
+          "meta": "&nbsp;&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/innovative-fashion-sourcing-2000x1142.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<br><br><br><br><br><br><br><br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "BUYERS &amp; SELLERS TOOLS",
+          "meta": "&nbsp; &nbsp;"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#ffffff"
+            },
+            ".iconbox": {
+              "background-color": "#7e9b9f",
+              "border-color": "#7e9b9f"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-10",
+          "_params": {
+            "iconsBgColor": "#7e9b9f",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "sharethis",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "SEO SHARING",
+          "subtitle1": "Share your outfit crush with your community &nbsp;",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Invite your community to discover your look book and share your latest brand discoveries.&nbsp;</span><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title2": "BUYER FEEDBACK",
+          "subtitle2": "Creative and intelligent solutions",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Product reviews from buyers. Our highest rated products are featured among our \"best sellers\".</span><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": "",
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "PRODUCT RATING",
+          "subtitle3": "Buy the highest rated apparels and accessories. &nbsp;",
+          "caption3": "Our brands and fabrics are rated and their&nbsp;<br>strong reputation show the<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;reliability,</span><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "chat",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "CHAT WITH SELLERS",
+          "subtitle4": "Get in touch directly &nbsp;",
+          "caption4": "Chat directly with sellers to obtain advice <br>and get more information.&nbsp;<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures2",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#7e9b9f",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "extFeatures2-1p",
+          "_params": {
+            "elements": "4",
+            "iconsColor": "#7e9b9f",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures2_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showIcons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/innovative-fashion-wholesale-deigner-sourcing-mode-paris-smart-fashion-brandjoys-page-1238x1752.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title": "BOOK YOUR SHOWROOM VISIT",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "open-book",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#475577"
+            }
+          },
+          "title1": "Get the catalog once a month<br><br>",
+          "text1": "",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "pricetags",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#475577"
+            }
+          },
+          "title2": "<span style=\"color: inherit; line-height: 25.65px;\">Choose your product&nbsp;in&nbsp;Brand Joys&nbsp;catalog</span><span style=\"color: inherit; line-height: 25.65px;\">and&nbsp;</span><br><span style=\"color: inherit; line-height: 25.65px;\">ask us to try it&nbsp;in&nbsp;our showroom.</span>",
+          "text2": "",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "shop-3",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#475577"
+            }
+          },
+          "title3": "Book your visit to the showroom&nbsp;to discover and test new innovative apparels and&nbsp;materials.",
+          "text3": "",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "web-shop2",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#475577"
+            }
+          },
+          "title4": "Order and buy&nbsp;online directly.",
+          "text4": "&nbsp;"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader15",
+          "_anchor": "extHeader15-x",
+          "_params": {
+            "imageSize": "10",
+            "animText1": "OUR SHOWROOM",
+            "animText2": "",
+            "animText3": "",
+            "typeSpeed": 60,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/showroom1-2000x907-23.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/EzHn7mq0buA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#7e9b9f",
+            "showLogo": true,
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2017/01/01",
+            "showCountdown": true,
+            "showForm": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-1400x1614.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "title": "",
+          "title2": "IS COMING SOON!",
+          "text": "",
+          "form": {
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form! Follow us on Facebook : https://www.facebook.com/BrandJoysEvents/"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#7e9b9f",
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "WHAT WE OFFER&nbsp;",
+          "meta": "&nbsp;For Brands"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#7e9b9f"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extFeatures13-1d",
+          "_params": {
+            "iconsColor": "#7e9b9f",
+            "blocks": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true
+          },
+          "mainTitle": "SERVICES FOR BRANDS",
+          "mainSubtitle": "Complete supply chain",
+          "date1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#4c6972"
+            }
+          },
+          "title1": "1. SOURCE",
+          "text1": "&nbsp;Source innovative and concentional raw materials. Ask for swatches.&nbsp;<br>",
+          "date2": "",
+          "title2": "2. MANUFACTURE",
+          "text2": "Find your manufacturer, make your prototype sampling and product directly your apparel and accessories. Choose your label.&nbsp;<br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#4c6972"
+            }
+          },
+          "date3": "&nbsp;",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "on-sale2",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#4c6972"
+            }
+          },
+          "title3": "3. SELL",
+          "text3": "Create your brand page &amp; evolve internationally retailers.&nbsp;<br>",
+          "date4": "4 April 2016",
+          "title4": "4. Design out of the box",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date5": "5 May 2016",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title5": "5. Awesome Reports",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date7": "7 July 2016",
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date9": "9 September 2016",
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date11": "11 November 2016",
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "bottomTitle": "NEW COLLECTION"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "SAVE TIME &amp; MONEY",
+          "meta": "3 days sourcing instead of 3 weeks for tradional sourcing"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar4",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "#f28281 !important"
+            },
+            "H5": {
+              "color": "#dcafaf"
+            }
+          },
+          "_anchor": "extProgressBar4-1h",
+          "_params": {
+            "progressColor": "#f28281",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "progress1": "85",
+            "showTitles": true,
+            "showSubtitles": true,
+            "showTexts": false,
+            "progress2": "15",
+            "progress3": 50,
+            "progress4": 60
+          },
+          "media1_left": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "linkInNewWindow": false,
+              "name": "hourglass",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#000",
+              "newWindow": false
+            }
+          },
+          "title1": "Traditional sourcing:<br>85% of wasting time&nbsp;",
+          "subtitle1": "3 weeks = 85%",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "media2_left": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "linkInNewWindow": false,
+              "name": "hourglass-o",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#000",
+              "newWindow": false
+            }
+          },
+          "title2": "Sourcing online: <br>85% of time saving",
+          "subtitle2": "Almost 3 days = 15%",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "media3_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a huge<br>list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "media4_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "tablet",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you<br>the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "media5_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large<br>selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "media6_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "document",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself<br>to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "WHAT WE OFFER",
+          "meta": "For retailers"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            }
+          },
+          "_anchor": "extFeatures13-1f",
+          "_params": {
+            "iconsColor": "#666666",
+            "blocks": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true
+          },
+          "mainTitle": "SERVICES FOR RETAILERS",
+          "mainSubtitle": "Discover innovative Brands&nbsp;",
+          "date1": "&nbsp;",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#4c6972"
+            }
+          },
+          "title1": "1. SOURCE BRANDS",
+          "text1": "Source brands online or with our Brand Joys catalog.&nbsp;",
+          "date2": "&nbsp;",
+          "title2": "2. DISCUSS",
+          "text2": "Chat and transact directly.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#4c6972"
+            }
+          },
+          "date3": "&nbsp;",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#4c6972"
+            }
+          },
+          "title3": "3. ORDER SECURELY",
+          "text3": "Order and buy securely.",
+          "date4": "4 April 2016",
+          "title4": "4. Design out of the box",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date5": "5 May 2016",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title5": "5. Awesome Reports",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date7": "7 July 2016",
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date9": "9 September 2016",
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date11": "11 November 2016",
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "bottomTitle": "GET YOUR ORDER"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-11",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/smart-fashion-sourcing2-2000x3000.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=EzHn7mq0buA",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "IFM PARIS EVENT",
+          "text": "NEXT DIGITAL FASHION EVENT COMING SOON...",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=gXBqm9nM0YU\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=HNanHA0b7Ec \" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "hidden",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "Discover the first innovative fashion and wearable marketplace community.<br>Manage your buying and selling from anywhere. Highly secure.<br>",
+          "label1": "HOT!",
+          "title1": "FOR RETAILER",
+          "subtitle1": "sourcing brands",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "/mo.",
+          "description1": "Limited offer",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Single checkout&nbsp;</li><li class=\"list-group-item\">Unlimited access brands</li><li class=\"list-group-item\">Feedback &amp; rewards</li><li class=\"list-group-item\">Tag and register favorit apparels</li><li class=\"list-group-item\">Contact &amp; chat directly</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
+          "label2": "HOT!",
+          "title2": "BUSINESS",
+          "subtitle2": "Description",
+          "currency2": "$",
+          "price2": "0",
+          "period2": "/mo.",
+          "description2": "More details",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "FOR BRANDS",
+          "subtitle3": "selling brands and sourcing textiles &amp; raw materials",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "/mo.",
+          "description3": "Limited offer",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Online showroom brand</li><li class=\"list-group-item\">No paid subscription</li><li class=\"list-group-item\">Social media sharing</li><li class=\"list-group-item\">Unlimited sales</li><li class=\"list-group-item\">Analytic tools</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/user/account\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
+          "label4": "HOT!",
+          "title4": "FOR FABRICS &amp; MANUFACTURERS",
+          "subtitle4": "supplying and manufacturing",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "Limited offer",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Online raw materials and manufacturers</li><li class=\"list-group-item\">No paid subscription</li><li class=\"list-group-item\">Social media sharing</li><li class=\"list-group-item\">Unlimited sales</li><li class=\"list-group-item\">Analytic tools</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/supplier/account\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#7e9b9f",
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "timeout": "2",
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/greyscale-216x110-47.png",
+                    "link": "http://www.ifm-paris.com/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/brandjoys6-225x224.png",
+                    "link": "https://fashiontechweek.fr/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-lafashiontech-84x110-57.png",
+                    "link": "http://ateliermeraki.co/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/mister-france-90x110-42.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-110x110-95.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-2000x2297-68.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showBullets": true,
+            "visibleSlides": "5",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-g",
+          "title": "PARTNERSHIPS",
+          "subtitle": "&nbsp;&nbsp;"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-13",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/holo%20brand%20joys-2000x1003.png",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/brandjoys\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/BrandJoysEvents/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/1/110555771655531358086\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCyFiYRrPsaTUIedCIJSyA1A\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company-beta/10910906/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BRAND JOYS."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-6",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-265x304-43.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact us :",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": ""
+            }
+          },
+          "text2": "+33 (1) 77 19 05 81&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "36, avenue Parmentier. <br>75011 Paris",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contact@brandjoys.com",
+          "title1": "Categories",
+          "text5": "<li><a href=\"terms-and-conditions.html\">Terms &amp; conditions</a><a href=\"terms-and-conditions\"></a></li><li><a href=\"/events\">Next showroom</a></li><li><a href=\"press-releases.html\">Press releases</a></li><li><a href=\"privacy-policy.html\">Privacy policy</a></li><li><a href=\"careers.html\">Careers</a></li><li><a href=\"/events\">Events</a></li><li><a href=\"/blog\">Blog</a></li><br>",
+          "text6": "&nbsp;",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\u001b\u001bContact us</a>"
+        }
+      ]
+    },
+    "terms-and-conditions.html": {
+      "settings": {
+        "title": "Legal Mention",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2b",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-37.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/blog\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Line Sheet&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Look book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BRAND JOYS."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2d",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "TERMS OF USE",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">LAST MODIFIED: OCTOBER 20TH, 2016</b><br></p><p><br></p><p>Please read these Terms of Use (collectively with BRAND JOYS (SAS)  Privacy Policy, the \"Terms\") fully and carefully before using http://brandjoys.com (the \"Site\") and the services, features, Content (defined below) offered by Brand Joys, SAS. (\"BRAND JOYS\", \"we\", \"us\" or \"our\") (together with the Site, the \"Services\"). These Terms set forth the legally binding terms and conditions for your use of the Site and the Services.</p><p><br></p><p>By using the Services and the Content, you, on behalf of your Brand (as defined below) or Retailer (defined below), as applicable (collectively, \"You\" or \"Your\"), agree to be bound by these Terms and by our Privacy Policy. If You object to anything in these Terms or the Privacy Policy, You are prohibited from using the Service.</p><p><br></p><p>THE TERMS ARE SUBJECT TO CHANGE BY US AT ANY TIME, EFFECTIVE UPON POSTING THROUGH THE SERVICE. BY ACCESSING THE SERVICE AFTER ANY SUCH CHANGE, YOU ACCEPT THESE TERMS AS MODIFIED. YOUR RIGHT TO USE THE SERVICES IS EXPRESSLY CONDITIONED ON ACCEPTANCE OF THESE TERMS. IF YOU ARE ACCESSING THE SERVICES ON BEHALF OF YOUR EMPLOYER, BRAND, RETAILER, OR ANOTHER ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO AGREE TO THESE TERMS ON ITS BEHALF.</p><p><br></p><p>THE BRAND JOYS SERVICE. Brand Joys provides a number of Internet-based services through the Site. One such service enables fashion designers or brands (\"Brands\") and fashion resellers (\"Retailers\") to discover one another and enter into buyer/seller relationships. Brands may create \"Brand Pages\" which include customized look books and line sheets showing specific articles of clothing and/or fashion accessories offered for sale (such items, collectively, \"Products\"). Retailers may create \"Buyer Pages\" which may include information on the Products they carry, their clientele and images of their physical store. Buyers or Retailer users purchase Products for resale in their physical storefront. Users who would like to sell Products through Brand Pages must also enter into the Brand Agreement. Users who purchase Products agree to do so in accordance with the Retailer Agreement. Brand Joys allows all users to browse the public areas of the Site. Only the retailers and the buyers can contact directly the brands, fashion designers and sellers. After retailers contacts sellers, Retailers may purchase Products from the Brands. The first contact is not required : Buyers or retailers can purchase directly from Brands. Brand Joys may offer a number of other services on its Site, such as message boards, contests, top sellers, best products, fashion editorials and newsletters, which may change from time to time.</p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">1 - ACCEPTANCE OF TERMS</span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p></p><ol><li>By registering for and/or using the Services in any manner, You agree to these Terms and all other operating rules, policies and procedures that may be published from time to time on the Services by us, each of which is incorporated by reference and each of which may be updated from time to time without notice to You.</li></ol><p></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Certain of the Services may be subject to additional terms and conditions specified by us from time to time; Your use of such Services is subject to those additional terms and conditions, which are incorporated into these Terms by this reference.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">These Terms apply to all users of the Services, including, without limitation, users who are contributors of content, information, and other materials or services, registered or otherwise.</span></li></ol><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">2 - ELIGIBILITY</span><br></p><p><span style=\"font-family: Raleway, sans-serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5; color: inherit;\"><br></span></p><p><span style=\"font-family: Raleway, sans-serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5; color: inherit;\">By using the Services or registering for an Account, You represent and warrant that You are, or are an employee, officer, consultant, agent or affiliate of an apparel, shoe, fashion accessory or other fashion related Brand or Retailer that has contracted with BRAND JOYS to establish a BRAND JOYS membership and sell or buy certain goods through BRAND JOYS'S website, http://brandjoys.com. We may, in our sole discretion, refuse to offer the Services to You, or any person or entity and change eligibility criteria at any time. You are solely responsible for ensuring that these Terms are in compliance with all laws, rules and regulations applicable to You and the right to access the Services is revoked where these Terms or use of the Services is prohibited or to the extent offering, sale or provision of the Services conflicts with any applicable law, rule or regulation. Further, the Services are offered only for Your use, and not for the use or benefit of any third party.</span></p><p><br></p><h2></h2><h2><span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\">3 - REGISTRATION</span><br></h2><ol><li>To get the most benefit from the Services, You may be required to register for an account on the Services (an \"Account\"). You must provide accurate and complete information and keep Your Account information updated. You shall not: (i) select or use as a username a name of another person with the intent to impersonate that person; (ii) use as a username a name subject to any rights of a person other than You without appropriate authorization; or (iii) use, as a username, a name that is otherwise offensive, vulgar or obscene. You are solely responsible for the activity that occurs on Your Account, and for keeping Your account password secure. You may never use another person's user account or registration information for the Services without permission. You must notify us immediately of any breach of security or unauthorized use of Your Account. You should never publish, distribute or post login information for Your Account. You shall have the ability to delete Your Account, either directly or through a request made to one of our employees or affiliates.</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">As part of the Services, we may ask You to link Your third party accounts (such as Facebook, Pinterest, Tumblr and Twitter) (\"Third Party Accounts\"). By signing into the Service through or linking Your Account to any Third Party Account, You permit us to access and aggregate certain information from Your profiles on such sites for use by the Service. You ultimately control how much information is accessible via Third Party Accounts via Your privacy settings on such sites. Please note that these account sharing restrictions may result in You being unable to use some or all features of the Service. When You use the Service, You are authorizing us to collect, store, and use, in accordance with our Privacy Policy, any information that You permit the third party websites to provide to us and to access tokens made available by those third party websites.</span><br></li></ol><p><br></p><p><br></p><h2>4 - CONTENT</h2><ol><li>DEFINITION. For purposes of these Terms, the term \"Content\" includes, without limitation, videos, audio clips, written posts and comments, information, data, text, photographs, software, scripts, graphics, trademarks, logos and interactive features generated, provided, or otherwise made accessible on or through the Services. For the purposes of this Agreement, \"Content\" also includes all Product Content and User Content (as defined below).</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">USER CONTENT. All Content relating to Your Products that You submit through the Services (“Product Content”) and all other Content added, created, uploaded, submitted, distributed, or posted to the Services by users (collectively \"User Content\"), whether publicly posted or privately transmitted, is the sole responsibility of the person, Brand, or Retailer from which such Product Content or User Content originated. You acknowledge that all Content, including Product Content and User Content, accessed by You using the Services is at Your own risk and You will be solely responsible for any damage or loss to You or any other party resulting therefrom. You may delete or remove Your Product Content or User Content, either Yourself or through a request made to one of our employees or affiliates. When Your Product Content or User Content is deleted, it will be removed from the Services. However, You understand that any removed Product Content or User Content may persist in backup copies (and on the BRAND JOYS website) for a reasonable period of time (but will not following removal be shared with others). By accepting these Terms, You agree to provide BRAND JOYS with certain Product Content or User Content, including but not limited to: a master account list, sample purchase orders, terms and conditions for purchase orders, accepted methods payment, images from Your Brand’s or Retailer's collection of goods being offered for sale through the Services and other information related to the style, branding, sizing, material composition and appearance of Your Brand’s or Retailer's goods.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">NOTICES AND RESTRICTIONS. The Services may contain Content specifically provided by us, our partners or our users and such Content is protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws (\"Intellectual Property\"). You shall abide by and maintain all copyright notices, information, and restrictions contained in any Content accessed through the Services. You or any user affiliated with You, are strictly prohibited from using any Intellectual, including but not limited to any Content specifically provided by us, our partners or our users as well as any aspect, feature, design element, user interface or source code of the Services, outside of the Services or in any way not expressly authorized by the applicable rightsholder to such Intellectual Property.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">USE LICENSE. Subject to these Terms, we grant each user of the Services a worldwide, non-exclusive, non-sub-licensable and non-transferable license to use (i.e., to download and display locally) Content solely for purposes related to the purchase and sale of Your goods through the Services (a \"Business Use\"). Use, reproduction, modification, distribution or storage of any Content for other than a Business Use is expressly prohibited without prior written permission from us. You shall not sell, license, rent, or otherwise use or exploit any Content in any way that violates any third party right.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">LICENSE GRANT. By submitting User Content through the Services, You hereby do and shall grant us a worldwide, non-exclusive, royalty-free, fully paid, sub-licensable and transferable license to use, edit, modify, reproduce, distribute, prepare derivative works of, display, perform, and otherwise fully exploit the User Content in connection with the Services and our (and our successors' and assigns') businesses, including without limitation for promoting and redistributing part or all of the Services (and derivative works there of) in any media formats and through any media channels (including, without limitation, third party websites and feeds). By submitting Product Content through the Services, you hereby do and shall grant us a worldwide, non-exclusive, perpetual, royalty-free, fully paid, sublicensable and transferable license to use, edit, modify, truncate, aggregate, reproduce, distribute, prepare derivative works of, display, and perform such Product Content solely for the purpose of providing the Services, and for no other purpose. You represent and warrant that You have all rights to grant such licenses to us without infringement or violation of any third party rights, including without limitation, any privacy rights, publicity rights, copyrights, contract rights, or any other intellectual property or proprietary rights.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">AVAILABILITY OF CONTENT. We do not guarantee that any Content will be made available on through the Services. Further, we have no obligation to monitor the Site or the Services. However, we reserve the right to (i) remove, edit or modify any Content in our sole discretion, at any time, without notice to You and for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content or if we are concerned that You may have violated these Terms), or for no reason at all and (ii) to remove or block any Content from the Services.</span></li></ol><h2><br></h2><h2>5 - RULES OF CONDUCT</h2><ol><li>As a condition of use, You promise not to use the Services for any purpose that is prohibited by these Terms of Use. You are responsible for all of Your activity in connection with the Services.</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">You shall not (and shall not permit any third party to) either (a) take any action or (b) upload, download, post, submit or otherwise distribute or facilitate distribution of any Content on or through the Service, including without limitation any Product Content or User Content, that:&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">infringes any patent, trademark, trade secret, copyright, right of publicity or other right of any other person or entity or violates any law or contractual duty; 2.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">You know is false, misleading, untruthful or inaccurate; 3.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, obscene, vulgar, pornographic, offensive, profane, contains or depicts nudity, contains or depicts sexual activity, or is otherwise inappropriate as determined by us in our sole discretion; 4.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">constitutes unauthorized or unsolicited advertising, junk or bulk e-mail (\"spamming\"); 5.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">contains software viruses or any other computer codes, files, or programs that are designed or intended to disrupt, damage, limit or interfere with the proper function of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any system, data, password or other information of ours or of any third party; 6. i</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">mpersonates any person or entity, including any of our employees or representatives; or 7.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">includes anyone's identification documents or sensitive financial information.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">You shall not: (i) take any action that imposes or may impose (as determined by us in our sole discretion) an unreasonable or disproportionately large load on our (or our third party providers') infrastructure; (ii) interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services; (iii) bypass, circumvent or attempt to bypass or circumvent any measures we may use to prevent or restrict access to the Services (or other accounts, computer systems or networks connected to the Services); (iv) run any form of auto-responder or \"spam\" on the Services; (v) use manual or automated software, devices, or other processes to \"crawl\" or \"spider\" any page of the Site; (vi) harvest or scrape any Content from the Services; or (vii) otherwise take any action in violation of our guidelines and policies.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">You shall not (directly or indirectly): (i) decipher, decompile, disassemble, reverse engineer or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Services, except to the limited extent applicable laws specifically prohibit such restriction, (ii) modify, translate, or otherwise create derivative works of any part of the Services, or (iii) copy, rent, lease, distribute, or otherwise transfer any of the rights that You receive hereunder. You shall abide by all applicable local, state, national and international laws and regulations.</span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of us, our users and the public.</span></span></span></li></ol><p><br></p><p><br></p><h2>6 - TERMINATION</h2><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We may terminate Your access to all or any part of the Services at any time, with or without cause, with or without notice, effective immediately, which may result in the forfeiture and destruction of all information associated with Your membership. If You wish to terminate Your Account, You may do so by following the instructions on the Site or through the Services. Any fees paid hereunder are non-refundable. All provisions of these Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">7 - WARRANTY DISCLAIMER.</span></p><p><br></p><ol><li><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;\">We have no special relationship with or fiduciary duty to You. You acknowledge that We have no control over, and no duty to take any action regarding: 1.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">which users gain access to the Services; 2.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">what Content You access via the Services; 3.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">what effects the Content may have on You; 4.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">how You may interpret or use the Content; or 5.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">what actions You may take as a result of having been exposed to the Content.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">You release us from all liability for You having acquired or not acquired Content through the Services. The Services may contain, or direct You to websites containing, information that some people may find offensive or inappropriate. We make no representations concerning any Content contained in or accessed through the Services, and it will not be responsible or liable for the accuracy, copyright compliance, legality or decency of material contained in or accessed through the Services.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">You acknowledge that BRAND JOYS shall not be responsible for any and all unfulfilled or unpaid orders placed through the Services and release us from all liability with respect any lost profits or other damages related to these orders&nbsp;</span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">THE SERVICES AND CONTENT ARE PROVIDED \"AS IS\", \"AS AVAILABLE\" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. WE, AND OUR DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS, PARTNERS AND CONTENT PROVIDERS DO NOT WARRANT THAT: (I) THE SERVICES WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (II) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (III) ANY CONTENT OR SOFTWARE AVAILABLE AT OR THROUGH THE SERVICES IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (IV) THE RESULTS OF USING THE SERVICES WILL MEET YOUR REQUIREMENTS. YOUR USE OF THE SERVICES IS SOLELY AT YOUR OWN RISK.&nbsp;</span><br></span></span></li></ol><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">8 - INDEMNIFICATION</span><br></p><p><br></p><p>You shall defend, indemnify, and hold harmless us, our affiliates and each of our and their respective employees, contractors, directors, suppliers and representatives from all liabilities, claims, and expenses, including reasonable attorneys' fees, that arise from or relate to Your use or misuse of, or access to, the Services, Content, or otherwise from Product Content or Your User Content, violation of these Terms, any infringement by You, any unfulfilled or lost orders caused by You, or any third party using Your account or identity in the Services, of any intellectual property or other right of any person or entity. We reserve the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by You, in which event You will assist and cooperate with us in asserting any available defenses. For clarity, You further agree to promptly reimburse BRAND JOYS and any other indemnified person hereunder for all expenses (including fees and disbursements of counsel) as they are incurred by BRAND JOYS or such other indemnified person in connection with investigating, preparing for or defending, or providing evidence in, any pending or threatened action, claim, suit or proceeding in respect of which indemnification or contribution may be sought hereunder (whether or not BRAND JOYS or any other indemnified person is a party thereto) and in enforcing these indemnification provisions. Your indemnity, contribution, reimbursement and other obligations under these indemnification provisions shall be in addition to any liability that You may otherwise have, at common law or otherwise, and shall be binding on Your successors and assigns.&nbsp;</p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">9 - LIMITATION OF LIABILITY</span><br></p><p><br></p><p>IN NO EVENT SHALL WE, NOR OUR DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SERVICES (I) FOR ANY LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, COMPENSATORY OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, SUBSTITUTE GOODS OR SERVICES (HOWEVER ARISING), (II) FOR ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE (REGARDLESS OF THE SOURCE OF ORIGINATION).&nbsp;</p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">10 - GOVERNING LAW AND JURISDICTION</span></p><p><br></p><p>These Terms shall be governed by and construed in accordance with French laws. You agree that any dispute arising from or relating to the subject matter of these Terms shall be governed by the exclusive France  juridiction.</p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">11 - ENTIRE AGREEMENT AND SEVERABILITY</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">These Terms are the entire agreement between You and us with respect to the Services, including use of the Site, and supersede all prior or contemporaneous communications and proposals (whether oral, written or electronic) between You and us with respect to the Services. If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect and enforceable. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.</span></p><p><span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1; font-family: Montserrat, sans-serif; font-weight: 600; letter-spacing: -1px;\"><br></span></p><p><span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1; font-family: Montserrat, sans-serif; font-weight: 600; letter-spacing: -1px;\">12 - MODIFICATION</span></p><p><br></p><p>We reserve the right, in our sole discretion, to modify or replace any of these Terms, or change, suspend, or discontinue the Services (including without limitation, the availability of any feature, database, or content) at any time by posting a notice on the Site or by sending You notice through the Services, via e-mail or by another appropriate means of electronic communication. We may also impose limits on certain features and services or restrict Your access to parts or all of the Services without notice or liability. While we will timely provide notice of modifications, it is also Your responsibility to check these Terms periodically for changes. Your continued use of the Services following notification of any changes to these Terms constitutes acceptance of those changes.</p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">13 - MISCELLANEOUS</span><br></p><p><br></p><ol><li>FORCE MAJEURE. We shall not be liable for any failure to perform our obligations hereunder where such failure results from any cause beyond our reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation.</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ASSIGNMENT. These Terms are personal to You, and are not assignable, transferable or sublicensable by You except with our prior written consent. We may assign, transfer or delegate any of our rights and obligations hereunder without consent.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">AGENCY. No agency, partnership, joint venture, or employment relationship is created as a result of these Terms and neither party has any authority of any kind to bind the other in any respect.&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">NOTICES. Unless otherwise specified in these Terms, all notices under these Terms will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by e-mail; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service. Electronic notices should be sent to support@brandjoys.com.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">NO WAIVER. Our failure to enforce any part of these Terms shall not constitute a waiver of our right to later enforce that or any other part of these Terms. Waiver of compliance in any particular instance does not mean that we will waive compliance in the future. In order for any waiver of compliance with these Terms to be binding, we must provide You with written notice of such waiver through one of our authorized representatives.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">HEADINGS. The section and paragraph headings in these Terms are for convenience only and shall not affect their interpretation.</span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">CONTACT. You may contact us at the following address: 36, avenue Parmentier. 75011 Paris.</span><br></li></ol>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-265x304-43.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact us :",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": ""
+            }
+          },
+          "text2": "+33 (1) 77 19 05 81&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "36, avenue Parmentier. <br>75011 Paris",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contact@brandjoys.com",
+          "title1": "Categories",
+          "text5": "<li><a href=\"terms-and-conditions.html\">Terms &amp; conditions</a><a href=\"terms-and-conditions\"></a></li><li><a href=\"/events\">Next showroom</a></li><li><a href=\"press-releases.html\">Press releases</a></li><li><a href=\"privacy-policy.html\">Privacy policy</a></li><li><a href=\"careers.html\">Careers</a></li><li><a href=\"/events\">Events</a></li><li><a href=\"/blog\">Blog</a></li><br>",
+          "text6": "&nbsp;",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\u001b\u001bContact us</a>"
+        }
+      ]
+    },
+    "legal-mention.html": {
+      "settings": {
+        "title": "Legal Mention",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1y",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-37.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/blog\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Line Sheet&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Look book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BRAND JOYS."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "BRAND JOYS LEGAL MENTIONS&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-26",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The website www.brandjoys.com is edited by BRAND JOYS (SAS) with 8000 € on the company’s capital. Registration number of the company Paris RCS 823 253 968 and CNIL number 2019612. The head office is located at 36, avenue Parmentier. 75011 Paris.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br></p><p><b>VAT number of the company:</b> &nbsp;FR05 823253968.</p><p><br></p><p><b>Contact:</b> contact@brandjoys.com&nbsp;</p><p><br></p><p><b>Director:</b> Sanaa Khadir Montandon</p><p><br></p><p><b>Website hosts:</b> Squarespace &amp; OVH.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-20",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-265x304-43.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact us :",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": ""
+            }
+          },
+          "text2": "+33 (1) 77 19 05 81&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "36, avenue Parmentier. <br>75011 Paris",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contact@brandjoys.com",
+          "title1": "Categories",
+          "text5": "<li><a href=\"terms-and-conditions.html\">Terms &amp; conditions</a><a href=\"terms-and-conditions\"></a></li><li><a href=\"/events\">Next showroom</a></li><li><a href=\"press-releases.html\">Press releases</a></li><li><a href=\"privacy-policy.html\">Privacy policy</a></li><li><a href=\"careers.html\">Careers</a></li><li><a href=\"/events\">Events</a></li><li><a href=\"/blog\">Blog</a></li><br>",
+          "text6": "&nbsp;",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\u001b\u001bContact us</a>"
+        }
+      ]
+    },
+    "careers.html": {
+      "settings": {
+        "title": "Careers",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2g",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-37.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/blog\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Line Sheet&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Look book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BRAND JOYS."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "CAREERS",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>Always looking for internships on Marketing, Communication, Account manager, UI/UX design, Saler.</p><p><br></p><p>Apply ​on : contact@brandjoys.com</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-265x304-43.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact us :",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": ""
+            }
+          },
+          "text2": "+33 (1) 77 19 05 81&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "36, avenue Parmentier. <br>75011 Paris",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contact@brandjoys.com",
+          "title1": "Categories",
+          "text5": "<li><a href=\"terms-and-conditions.html\">Terms &amp; conditions</a><a href=\"terms-and-conditions\"></a></li><li><a href=\"/events\">Next showroom</a></li><li><a href=\"press-releases.html\">Press releases</a></li><li><a href=\"privacy-policy.html\">Privacy policy</a></li><li><a href=\"careers.html\">Careers</a></li><li><a href=\"/events\">Events</a></li><li><a href=\"/blog\">Blog</a></li><br>",
+          "text6": "&nbsp;",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\u001b\u001bContact us</a>"
+        }
+      ]
+    },
+    "privacy-policy.html": {
+      "settings": {
+        "title": "Privacy policy",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2l",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-37.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/blog\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Line Sheet&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Look book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BRAND JOYS."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2n",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "PRIVACY POLICY",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<h2><span style=\"font-size: 1.07rem; font-family: Raleway, sans-serif; line-height: 1.5;\">LAST MODIFIED : JANUARY 14TH, 2017</span></h2><h2>INTRODUCTION</h2><p><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;\">This Privacy Policy describes the policies and procedures of BRAND JOYS, on the collection, use and disclosure of the information of business entities and wholesale customers on http://brandjoys.com (the \"Site\") and the services, features, content or applications we offer (collectively with the Site, the \"Services\"). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your \"Account\"); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. &nbsp;</span></p><p>&nbsp;</p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">PRINCIPLES OF THE BRAND JOYS PRIVACY POLICY</span></p><p><br></p><p>We don't share your Personal Information with anyone except to comply with the law, to provide a service you have requested, to protect our rights, or as provided in this Privacy Policy. We don't store Personal Information on our servers unless required for the on-going operation of one of our Services.</p><p>&nbsp;</p><h2>WHAT THIS PRIVACY POLICY COVERS</h2><p>This Privacy Policy covers the treatment of personally identifiable information (\"Personal Information\") gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (\"Third Party Services\") that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.</p><p>&nbsp;</p><h2>WHAT INFORMATION DO WE COLLECT?</h2><p>The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.</p><p>&nbsp;</p><h2>ACCOUNT INFORMATION</h2><p>BRAND JOYS collects Personal Information, such as your email address, when you create an Account with BRAND JOYS to use the Services. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous.</p><p>&nbsp;</p><h2>USER CONTENT</h2><p>Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.</p><p>&nbsp;</p><h2>IP ADDRESS INFORMATION AND OTHER INFORMATION COLLECTED AUTOMATICALLY</h2><p>BRAND JOYS receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request in order to operate the Services. BRAND</p><p>JOYS may use analytic tools or services to view aggregate statistics about the usage of the Services. Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser. IP Addresses are automatically reported by your browser each time you view a web page. IP addresses may be used for various purposes, including: To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. To tailor advertising based on geographic area or other information derived from your IP address. Aggregate information derived from IP addresses may also be reported to advertisers. To estimate the total number of users visiting the Services from specific geographical regions.</p><p>You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. BRAND JOYS uses its own cookies for a number of purposes, including to:</p><p><br></p><ul><li>Access your information when you \"sign in\".</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Keep track of preferences you specify while you are using the Services.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Keep track of your design file choices.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Store credentials you may use to enable posting to other sites.</span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Estimate and report our total audience size and traffic.</span></span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Conduct research to improve BRAND JOYS's content and services.</span></span></span></span></li></ul><p><br></p><p>Since BRAND JOYS uses cookies to track, diagnose and service technology problems reported by our users or engineers, if you reject all cookies, you will not be able to use the parts of the Services that require you to \"sign in,\" and you may not be able to take full advantage of the Services. Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one. This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.</p><p>&nbsp;</p><h2>INFORMATION SHARING AND DISCLOSURE</h2><p>Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services, such as on message boards, in reviews and discussion areas, and within your public profile page. Such content becomes publicly available and can be collected and used by others. Registered users may have some of this public information associated with their Accounts.</p><p>Unregistered users will not have this association, but information concerning their use of the Services (such as what pages they have visited) may be tracked anonymously through the use of cookies and stored by us. If you post Personal Information online in a way that is accessible to the public, you may receive unsolicited messages from other parties in return. BRAND JOYS does not rent or sell your Personal Information.</p><p>Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.</p><p>User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services.</p><p>We do not use your email address or other Personal Information to send marketing messages unless you've opted in to receive such messages. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes, alerting you to messages from other members of the Services, or for customer service purposes). We use both your Personal Information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Site and to create new features, functionality, and services by storing, tracking, and analyzing user preferences and trends.</p><p>As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identify possible fraudulent transactions, and otherwise as needed to manage our business.</p><p>BRAND JOYS will not share Personal Information about you with other people or other companies without your consent except to provide products or services you've requested and in the following circumstances:</p><p>BRAND JOYS may be required to disclose Personal Information and/or non-personally identifiable information under special circumstances, such as to comply with French laws (such as France Copyright Law), subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims.</p><p>It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of BRAND JOYS's Terms, or as otherwise permitted or required by law.</p><p>BRAND JOYS reserves the right to disclose Personal Information and/or non-personally-identifiable information that BRAND JOYS believes, in good faith, is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Site, and to protect the rights, property, or personal safety of BRAND JOYS, our users or others.</p><p>We will transfer information about you if BRAND JOYS is acquired by or merged with another company. In this event, BRAND JOYS will notify you by email or by putting a prominent notice on the Site before information about you is transferred and becomes subject to a different privacy policy. In the event that BRAND JOYS is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your Personal Information is treated, transferred, or used.</p><p>BRAND JOYS may share demographic information with business partners, such as \"53% of users who regularly use BRAND JOYS are boutiques\" or the like. No Personal Information will ever be used without your permission when sharing such demographic information (i.e. we will ask you for a quote or testimonial).</p><p>BRAND JOYS may contract with various third parties who help us provide and maintain the Site or the Services (our \"Agents\"). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents. We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purposes of providing the services in question. We cannot, however, guarantee that such third parties will not disclose our Personal Information and will not be liable for any unauthorized use or disclosure by any third party.</p><p>We limit access to Personal Information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</p><p>&nbsp;</p><h2>EDITING AND DELETING ACCOUNT INFORMATION</h2><p>You can delete your Account username at any time. You can edit and change other Account information at any time. You can delete your Account at any time from your Account page; however, please note that your identification and contact information may remain in BRAND JOYS's records for some period. If you delete your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.</p><p>&nbsp;</p><h2>DATA SECURITY AND CHANGE OF CONTROL</h2><p>Your Account information is password-protected. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account. BRAND JOYS uses commercially reasonable physical, managerial, and technical safeguards, such as commercially available encryption protocols, to preserve the integrity and security of your Personal Information. We cannot, however, ensure or warrant the security of any information you transmit to BRAND JOYS and you do so at your own risk. Once we receive your transmission of information, BRAND JOYS makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If BRAND JOYS learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. BRAND JOYS may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using by completing the Contact Us form with the appropriate request.</p><p>&nbsp;</p><h2>WHAT INFORMATION OF MINE CAN I ACCESS?</h2><p>If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings. France Privacy Rights: Under Article 9 du code civil Français, French residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a French resident and would like a copy of this notice, please submit a written request to the following address: 36, avenue Parmentier. 75011 Paris. &nbsp;</p><p>&nbsp;</p><h2>WHAT CHOICES DO I HAVE REGARDING MY INFORMATION?</h2><p>You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features. You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.</p><p>&nbsp;</p><h2>CHANGES AND UPDATES TO THIS PRIVACY POLICY</h2><p>This Privacy Policy may be revised periodically with or without notice to you and this will be reflected by the \"effective date\" below. Please revisit this page to stay aware of any changes. In general, we only use your Personal Information in the manner described in the Privacy Policy in effect when we received the Personal Information you provided. Your continued use of the Site constitutes your agreement to this Privacy Policy and any future revisions. For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the Personal Information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.</p><p><br></p><h2>WHAT IF I HAVE QUESTIONS OR CONCERNS?</h2><p>If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to contact@brandjoys.com. We will make every effort to resolve your concerns.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-265x304-43.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact us :",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": ""
+            }
+          },
+          "text2": "+33 (1) 77 19 05 81&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "36, avenue Parmentier. <br>75011 Paris",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contact@brandjoys.com",
+          "title1": "Categories",
+          "text5": "<li><a href=\"terms-and-conditions.html\">Terms &amp; conditions</a><a href=\"terms-and-conditions\"></a></li><li><a href=\"/events\">Next showroom</a></li><li><a href=\"press-releases.html\">Press releases</a></li><li><a href=\"privacy-policy.html\">Privacy policy</a></li><li><a href=\"careers.html\">Careers</a></li><li><a href=\"/events\">Events</a></li><li><a href=\"/blog\">Blog</a></li><br>",
+          "text6": "&nbsp;",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\u001b\u001bContact us</a>"
+        }
+      ]
+    },
+    "press-releases.html": {
+      "settings": {
+        "title": "Press Releases",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2q",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-37.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/blog\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Line Sheet&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Look book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BRAND JOYS."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "PRESS RELEASES<br>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-30",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>EXPOSITION : FASHION TECH</p><p>UNE MODE TOURNEE VERS L’AVENIR</p><p><i>à L’INSTITUT FRANCAIS DE LA MODE - IFM</i></p><p><a href=\"/files/communique-de-presse-exposition-IFM.pdf\" target=\"_blank\">Télécharger le communiqué de presse</a></p><p><br></p><p>MODE INNOVANTE</p><p>\nUN REGARD VERS L’AVENIR</p><p><i>à LA VILLA DES ARTS</i></p><p><i><a href=\"/files/communique-de-presse-VILLA-DES-ARTS.pdf\" target=\"_blank\">Télécharger le communiqué de presse</a></i></p><p><i><br></i></p><p>4EME FASHIONTECH WEEK PARIS</p><p><i><a href=\"/files/dossier-de-presse-mode-innovante.pdf\" target=\"_blank\">Télécharger le dossier de presse</a></i></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2u",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-265x304-43.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact us :",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": ""
+            }
+          },
+          "text2": "+33 (1) 77 19 05 81&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "36, avenue Parmentier. <br>75011 Paris",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contact@brandjoys.com",
+          "title1": "Categories",
+          "text5": "<li><a href=\"terms-and-conditions.html\">Terms &amp; conditions</a><a href=\"terms-and-conditions\"></a></li><li><a href=\"/events\">Next showroom</a></li><li><a href=\"press-releases.html\">Press releases</a></li><li><a href=\"privacy-policy.html\">Privacy policy</a></li><li><a href=\"careers.html\">Careers</a></li><li><a href=\"/events\">Events</a></li><li><a href=\"/blog\">Blog</a></li><br>",
+          "text6": "&nbsp;",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\u001b\u001bContact us</a>"
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "About",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2v",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-111x128-37.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/line-sheets.html\" aria-expanded=\"true\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BRAND JOYS."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2x",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "ABOUT<br>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-31",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Brand Joys is wholesaler global network, connecting innovative and conventional brands with ethical and trendsetters textiles fabrics, manufacturers and international retailers :</p><p><br></p><ul><li>BRANDS can source textiles easily on our global platform : e-textiles, ethical or eco-textiles, conventional textiles, raw materials, Tech components or haberdashery</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">BRANDS can source manufacturers and launch their production</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">after production, BRANDS can sell their collections to local and international retailers and suppliers</span><br></span></li></ul><p>&nbsp;</p><p><br></p><p>The subscription to our quarterly “BRAND JOYS SWATCHES CATALOG”, allows to receive updated textiles and save sourcing time and money : 85% saved time, which leads to substantial economies of scale and production in profitable conditions.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brand-joys-shield-white-265x304-43.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact us :",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": ""
+            }
+          },
+          "text2": "+33 (1) 77 19 05 81&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "36, avenue Parmentier. <br>75011 Paris",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contact@brandjoys.com",
+          "title1": "Categories",
+          "text5": "<li><a href=\"terms-and-conditions.html\">Terms &amp; conditions</a><a href=\"terms-and-conditions\"></a></li><li><a href=\"/events\">Next showroom</a></li><li><a href=\"press-releases.html\">Press releases</a></li><li><a href=\"privacy-policy.html\">Privacy policy</a></li><li><a href=\"careers.html\">Careers</a></li><li><a href=\"/events\">Events</a></li><li><a href=\"/blog\">Blog</a></li><br>",
+          "text6": "&nbsp;",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@brandjoys.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\u001b\u001bContact us</a>"
+        }
+      ]
+    }
+  }
+}
