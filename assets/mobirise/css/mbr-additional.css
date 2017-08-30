@@ -748,11 +748,11 @@ h6,
   font-size: 13px;
 }
 #header1-1 .mbr-section-lead {
-  color: #bdcbce;
-  font-size: 20px;
+  color: #ffffff;
+  font-size: 17px;
 }
 #header1-1 .mbr-section-title SPAN {
-  font-size: 36px;
+  font-size: 32px;
 }
 #header1-1 .mbr-section-lead B {
   color: #ffffff;
@@ -762,33 +762,32 @@ h6,
   color: #7e9b9f;
   font-size: 23px;
 }
+#header3-32 .mbr-section-title,
+#header3-32 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-32 SMALL {
+  color: #7e9b9f;
+}
+#extProgressBar4-1h path[stroke] {
+  stroke: #f28281 !important;
+}
+#extProgressBar4-1h H5 {
+  color: #d14841;
+}
 #header3-1r .mbr-section-title,
 #header3-1r .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1r H3 {
   font-size: 32px;
-  color: #7e9b9f;
+  color: #ffffff;
+}
+#header3-1r SMALL {
+  color: #ffffff;
 }
 #features6-1 H4 {
-  color: #7e9b9f;
-}
-#header3-1x .mbr-section-title,
-#header3-1x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1x H3 {
   color: #ffffff;
-  font-size: 32px;
-}
-#header3-1x SMALL {
-  color: #efefef;
-}
-#extTabs1-1u H3 {
-  color: #ffffff;
-}
-#extTabs1-1u P {
-  text-align: left;
 }
 #header3-12 .mbr-section-title,
 #header3-12 .mbr-section-subtitle {
@@ -813,12 +812,26 @@ h6,
   background-color: #7e9b9f;
   border-color: #7e9b9f;
 }
+#header3-34 .mbr-section-title,
+#header3-34 .mbr-section-subtitle {
+  text-align: center;
+}
 #extFeatures2-1p .etl-icon {
   color: #7e9b9f;
 }
 #extFeatures2-1p H2 {
   color: #7e9b9f;
   font-size: 36px;
+}
+#header3-33 .mbr-section-title,
+#header3-33 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-33 SMALL {
+  color: #ffffff;
+}
+#header3-33 H3 {
+  color: #ffffff;
 }
 #header3-1i .mbr-section-title,
 #header3-1i .mbr-section-subtitle {
@@ -834,52 +847,19 @@ h6,
 #extFeatures13-1d P {
   text-align: left;
 }
-#header3-32 .mbr-section-title,
-#header3-32 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-32 SMALL {
-  color: #ffffff;
-}
-#extProgressBar4-1h path[stroke] {
-  stroke: #f28281 !important;
-}
-#extProgressBar4-1h H5 {
-  color: #dcafaf;
-}
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1j H3 {
-  color: #7e9b9f;
+  color: #ffffff;
 }
-#extFeatures13-1f .etl-icon {
-  color: #666666;
+#header3-1j SMALL {
+  color: #ffffff;
 }
 #msg-box6-11 .mbr-section-title,
 #msg-box6-11 .lead p {
   color: #fff;
-}
-#pricing-table2-14 .mbr-plan-header,
-#pricing-table2-14 .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-14 ul,
-#pricing-table2-14 .mbr-plan-title,
-#pricing-table2-14 .mbr-price-value,
-#pricing-table2-14 .mbr-price-figure,
-#pricing-table2-14 .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-14 .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-14 .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-14 .mbr-section__container .mbr-section-title {
-  color: #7e9b9f;
 }
 #extTestimonials5-g .mbr-section-title {
   color: #7e9b9f;

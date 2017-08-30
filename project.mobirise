@@ -22,14 +22,14 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 111,
+    "uniqCompNum": 114,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "file:///E:/MOBIRISE",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRAND JOYS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/line-sheets.html\" aria-expanded=\"true\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/events\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/booking\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.innovative-fashion.com/line-sheets.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD TEMPLATES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://b2bmarketplace.brandjoys.com/user/account\">SIGN IN</a></li>"
         },
         {
           "_name": "header1",
@@ -142,11 +142,11 @@
               "font-size": "13px"
             },
             ".mbr-section-lead": {
-              "color": "#bdcbce",
-              "font-size": "20px"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "36px"
+              "font-size": "32px"
             },
             ".mbr-section-lead B": {
               "color": "#ffffff",
@@ -162,7 +162,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -170,16 +170,168 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.2",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">THE GLOBAL INNOVATIVE SOURCING B2B MARKETPLACE: FOR BRANDS AND RETAILERS</span>",
-          "text": "\u001bBRAND JOYS IS A WHOLESALER SOURCING GLOBAL NETWORK CONNECTING INNOVATIVE BRANDS WITH ETHICAL FABRICS, MANUFACTURERS AND INTERNATIONAL RETAILERS.<br><br><span style=\"font-style: normal;\"><b>REGISTER HERE:</b></span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">BRANDS SOURCING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">TEXTILES SOURCING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">MANUFACTURES SOURCING</a>   "
+          "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">THE GLOBAL ETHICAL SOURCING B2B MARKETPLACE: </span><br><span style=\"font-weight: normal;\">FOR DESIGNERS, ETHICAL FABRICS &amp; MANUFACTURERS.</span><br><br>",
+          "text": "\u001bSAVE YOUR TIME ! FIND THE BEST TEXTILES KEY PLAYERS IN EACH COUNTRY:<br>ETHICAL, ORGANIC, HANDMADE AND RECYCLED &nbsp;FABRICS. FIND YOUR ETHICAL MANUFACTURERS.<br><br><span style=\"font-style: normal;\"><b>REGISTER HERE:</b></span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">TEXTILES SOURCING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" data-toolbar=\"-mbrBtnMove\">MANUFACTURES SOURCING</a>   "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "SOURCE ONLINE <br>AND SAVE TIME &amp; MONEY",
+          "meta": "3 days sourcing instead of 3 weeks for tradional sourcing. <br>Achieves large economies of scale."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar4",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "#f28281 !important"
+            },
+            "H5": {
+              "color": "#d14841"
+            }
+          },
+          "_anchor": "extProgressBar4-1h",
+          "_params": {
+            "progressColor": "#f28281",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "progress1": "85",
+            "showTitles": true,
+            "showSubtitles": true,
+            "showTexts": false,
+            "progress2": "15",
+            "progress3": 50,
+            "progress4": 60
+          },
+          "media1_left": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "linkInNewWindow": false,
+              "name": "hourglass",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#000",
+              "newWindow": false
+            }
+          },
+          "title1": "Traditional sourcing:<br>85% of wasting time&nbsp;",
+          "subtitle1": "3 weeks = 85%",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "media2_left": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "linkInNewWindow": false,
+              "name": "hourglass-o",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#000",
+              "newWindow": false
+            }
+          },
+          "title2": "Sourcing online: <br>85% of time saving",
+          "subtitle2": "Almost 3 days = 15%",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "media3_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a huge<br>list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "media4_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "tablet",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you<br>the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "media5_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large<br>selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "media6_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "document",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself<br>to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider."
         },
         {
           "_styles": {
@@ -188,7 +340,10 @@
             },
             "H3": {
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -199,11 +354,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#7e9b9f",
             "showMeta": true
           },
-          "title": "<br>USERS: <br>FOR BUYER, SUPPLIER, MANUFACTURER AND SELLER &nbsp;",
-          "meta": "Complete Supply chain"
+          "title": "<br>SELLERS : <br>ETHICAL MANUFACTURERS &amp; FABRICS. &nbsp;",
+          "meta": "&nbsp; &nbsp;"
         },
         {
           "_inherit": "features3",
@@ -213,7 +368,7 @@
           "_name": "features6",
           "_styles": {
             "H4": {
-              "color": "#7e9b9f"
+              "color": "#ffffff"
             }
           },
           "_anchor": "features6-1",
@@ -223,7 +378,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -232,7 +387,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -243,19 +398,19 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "idea",
+              "name": "setting",
               "family": "MobiriseIcons",
               "active": true,
               "link": " #",
               "size": 0,
-              "color": "#4c6972",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
-          "title1": "FOR EMMERGING &amp;&nbsp;INNOVATIVE BRANDS",
+          "title1": "FOR ETHICAL MANUFACTURERS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Sell amongst the world's best retailers <br>and source the best innovative textiles and fabrics.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/user/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SELL &amp; BUY</a>",
+          "caption1": "Sell your production services to international brands : sampling, prototyping...<br>Connect with brands looking for manufacturing.&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/user/account\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">SELL</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -265,30 +420,30 @@
               "active": true,
               "link": "#",
               "size": 0,
-              "color": "#4c6972",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
-          "title2": "FOR INNOVATIVE TEXTILES FABRICS",
+          "title2": "FOR ORGANIC AND ETHICAL FABRICS",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Sell ecological , smart textiles and <br>raw materials to innovative brands and fashion houses.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/supplier/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SELL</a>",
+          "caption2": "Sell organic, recycled, handmade and eco textiles to ethical brands.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/supplier/account\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">SELL</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "home",
+              "name": "touch",
               "family": "MobiriseIcons",
               "active": true,
               "link": "#",
               "size": 0,
-              "color": "#4c6972",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
-          "title3": "FOR INTERNATIONAL RETAILERS",
+          "title3": "",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<br>Source and connect with emmerging&nbsp;<br>and innovative brands with negotiated<br>rates.&nbsp;<br>",
+          "caption3": "&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
           "media4": {
             "iconFont": {
@@ -303,9 +458,9 @@
               "newWindow": false
             }
           },
-          "title4": "FOR INTERNATIONAL MANUFACTURERS",
+          "title4": "<br>",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Sell your service to international brands.<br>Connect with brands looking for manufacturing. <br>",
+          "caption4": "<br>",
           "button4": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/supplier/account\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SELL</a>",
           "media5": {
             "iconFont": {
@@ -342,80 +497,6 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff",
-              "font-size": "32px"
-            },
-            "SMALL": {
-              "color": "#efefef"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1x",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#7e9b9f",
-            "showMeta": true
-          },
-          "title": "SOURCING CATEGORIES",
-          "meta": "By Brands and retailers"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTabs1",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "extTabs1-1u",
-          "_params": {
-            "tabs": "3",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
-            "bgColor": "#7e9b9f",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#151515",
-            "showTitles": true
-          },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1u\" aria-expanded=\"false\">Fashion categories</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1u\" aria-expanded=\"false\">Raw materials categories</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1u\" aria-expanded=\"true\">Manufacturing &amp; Services</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1u\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1u\" aria-expanded=\"true\">caAccessories</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1u\">Beautiful</a></li>",
-          "title1": "FOR MEN, WOMAN, UNISEX AND KIDS: <br>SUSTAINABLE, INNOVATIVE AND CONVENTIONAL APPARELS.",
-          "text1": "",
-          "title2": "CONVENTIONAL TEXTILES, E-TEXTILES, ECO-TEXTILES, RECYCLED TEXTILES, ELECTRONIC COMPONENTS AND HABERDASHERY.",
-          "text2": "",
-          "title3": "SAMPLING, PROTOTYPE SAMPLING, TECHNICAL DETAIL, 3D PRINTING, DIGITIZING, PATTERN MAKING AND OTHERS.&nbsp;",
-          "text3": "&nbsp;",
-          "title4": "Tab heading 4",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "title5": "Tab heading 5",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
               "font-size": "25px",
               "color": "#7e9b9f"
             }
@@ -431,7 +512,7 @@
             "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "B2B FASHION MARKETPLACE: <br>DISCOVER INNOVATIVE BRANDS, SOURCE, TRANSACT &amp; EVOLVE YOUR NETWORK",
+          "title": "B2B NETWORK MARKETPLACE: <br>DISCOVER SUSTAINABLE FABRICS AND ETHICAL MANUFACTURERS, <br>SOURCE, TRANSACT &amp; EVOLVE YOUR NETWORK",
           "meta": "&nbsp;&nbsp;"
         },
         {
@@ -484,7 +565,7 @@
             "bgColor": "#7e9b9f",
             "showMeta": true
           },
-          "title": "BUYERS &amp; SELLERS TOOLS",
+          "title": "DESIGNERS TOOLS",
           "meta": "&nbsp; &nbsp;"
         },
         {
@@ -539,9 +620,9 @@
               "newWindow": false
             }
           },
-          "title1": "SEO SHARING",
+          "title1": "DESIGNER SEO SHARING",
           "subtitle1": "Share your outfit crush with your community &nbsp;",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Invite your community to discover your look book and share your latest brand discoveries.&nbsp;</span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Invite your community to discover your fabric crush and share your latest raw materials discoveries.&nbsp;</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -558,7 +639,7 @@
           },
           "title2": "BUYER FEEDBACK",
           "subtitle2": "Creative and intelligent solutions",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Product reviews from buyers. Our highest rated products are featured among our \"best sellers\".</span><br>",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Product reviews from designers. Our highest rated products are featured among our \"best sellers\".</span><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -574,8 +655,8 @@
             }
           },
           "title3": "PRODUCT RATING",
-          "subtitle3": "Buy the highest rated apparels and accessories. &nbsp;",
-          "caption3": "Our brands and fabrics are rated and their&nbsp;<br>strong reputation show the<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;reliability,</span><br>",
+          "subtitle3": "Buy the highest fabrics or manufactuers service quality. &nbsp;",
+          "caption3": "Our fabrics and manufacturers are rated and their&nbsp;<br>strong reputation show the<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;reliability,</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -590,7 +671,7 @@
               "newWindow": false
             }
           },
-          "title4": "CHAT WITH SELLERS",
+          "title4": "CHAT WITH DESIGNERS",
           "subtitle4": "Get in touch directly &nbsp;",
           "caption4": "Chat directly with sellers to obtain advice <br>and get more information.&nbsp;<br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -624,6 +705,26 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-34",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "INNOVATIVE SWATCHES CATALOG",
+          "meta": "By BRAND JOYS"
         },
         {
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
@@ -667,10 +768,10 @@
               "active": true,
               "class": "central-image",
               "src": "@PROJECT_PATH@/assets/images/innovative-fashion-wholesale-deigner-sourcing-mode-paris-smart-fashion-brandjoys-page-1238x1752.jpg",
-              "link": "",
+              "link": "https://www.weebly.com/editor/main.php#",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title": "BOOK YOUR SHOWROOM VISIT",
@@ -685,7 +786,7 @@
               "color": "#475577"
             }
           },
-          "title1": "Get the catalog once a month<br><br>",
+          "title1": "<br><span style=\"font-weight: normal;\">Get the &nbsp;quarterly swatches catalog.&nbsp;</span><br><br>",
           "text1": "",
           "media2": {
             "iconFont": {
@@ -698,7 +799,7 @@
               "color": "#475577"
             }
           },
-          "title2": "<span style=\"color: inherit; line-height: 25.65px;\">Choose your product&nbsp;in&nbsp;Brand Joys&nbsp;catalog</span><span style=\"color: inherit; line-height: 25.65px;\">and&nbsp;</span><br><span style=\"color: inherit; line-height: 25.65px;\">ask us to try it&nbsp;in&nbsp;our showroom.</span>",
+          "title2": "<span style=\"font-weight: normal;\"><span style=\"color: inherit; line-height: 25.65px;\">Choose your product&nbsp;in&nbsp;Brand Joys&nbsp;catalog</span><span style=\"color: inherit; line-height: 25.65px;\">and&nbsp;</span><br></span><span style=\"color: inherit; line-height: 25.65px; font-weight: normal;\">ask us to try it&nbsp;in&nbsp;our showrooms.</span>",
           "text2": "",
           "media3": {
             "iconFont": {
@@ -711,7 +812,7 @@
               "color": "#475577"
             }
           },
-          "title3": "Book your visit to the showroom&nbsp;to discover and test new innovative apparels and&nbsp;materials.",
+          "title3": "<span style=\"color: inherit; line-height: 25.65px; font-weight: normal;\">Book your visit to the showroom&nbsp;to discover and test new innovative apparels and&nbsp;materials.</span><br>",
           "text3": "",
           "media4": {
             "iconFont": {
@@ -724,8 +825,34 @@
               "color": "#475577"
             }
           },
-          "title4": "Order and buy&nbsp;online directly.",
+          "title4": "<br><span style=\"font-weight: normal;\">Order and buy&nbsp;online directly.</span>",
           "text4": "&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-33",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "NEXT EVENT",
+          "meta": "&nbsp;From 1st to 22th december, 2017"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -752,12 +879,12 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0",
             "overlayColor": "#7e9b9f",
             "showLogo": true,
             "showTitle": true,
             "showText": true,
-            "countdown": "2017/01/01",
+            "countdown": "2017/12/01",
             "showCountdown": true,
             "showForm": true,
             "showArrow": true
@@ -824,8 +951,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "WHAT WE OFFER&nbsp;",
-          "meta": "&nbsp;For Brands"
+          "title": "FOR DESIGNERS&nbsp;",
+          "meta": "Fashion &amp; Interior design"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -844,7 +971,7 @@
           "_anchor": "extFeatures13-1d",
           "_params": {
             "iconsColor": "#7e9b9f",
-            "blocks": "3",
+            "blocks": "2",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": false,
@@ -878,10 +1005,10 @@
             }
           },
           "title1": "1. SOURCE",
-          "text1": "&nbsp;Source innovative and conventional raw materials. Ask for swatches.&nbsp;<br>",
+          "text1": "&nbsp;Source ethical, organic, handmade and recycled fabrics. Ask for swatches.&nbsp;<br>",
           "date2": "",
           "title2": "2. MANUFACTURE",
-          "text2": "Find your manufacturer, make your prototype sampling and product directly your apparel and accessories. Choose your label.&nbsp;<br>",
+          "text2": "Find your manufacturer, make your prototype, sampling and product directly your apparel and accessories. Choose your label country.&nbsp;<br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -1031,160 +1158,11 @@
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
+            "H3": {
+              "color": "#ffffff"
+            },
             "SMALL": {
               "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-32",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#7e9b9f",
-            "showMeta": true
-          },
-          "title": "SAVE TIME &amp; MONEY",
-          "meta": "3 days sourcing instead of 3 weeks for tradional sourcing"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extProgressBar4",
-          "_styles": {
-            "path[stroke]": {
-              "stroke": "#f28281 !important"
-            },
-            "H5": {
-              "color": "#dcafaf"
-            }
-          },
-          "_anchor": "extProgressBar4-1h",
-          "_params": {
-            "progressColor": "#f28281",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
-            "bgColor": "#7e9b9f",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "progress1": "85",
-            "showTitles": true,
-            "showSubtitles": true,
-            "showTexts": false,
-            "progress2": "15",
-            "progress3": 50,
-            "progress4": 60
-          },
-          "media1_left": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "linkInNewWindow": false,
-              "name": "hourglass",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "#",
-              "size": 0,
-              "color": "#000",
-              "newWindow": false
-            }
-          },
-          "title1": "Traditional sourcing:<br>85% of wasting time&nbsp;",
-          "subtitle1": "3 weeks = 85%",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "media2_left": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "linkInNewWindow": false,
-              "name": "hourglass-o",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "#",
-              "size": 0,
-              "color": "#000",
-              "newWindow": false
-            }
-          },
-          "title2": "Sourcing online: <br>85% of time saving",
-          "subtitle2": "Almost 3 days = 15%",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "media3_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "desktop",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a huge<br>list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "media4_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "tablet",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you<br>the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "media5_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large<br>selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "media6_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "document",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself<br>to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#7e9b9f"
             }
           },
           "_tags": [
@@ -1195,207 +1173,11 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#fff",
+            "bgColor": "#7e9b9f",
             "showMeta": true
           },
-          "title": "WHAT WE OFFER",
+          "title": "FOR RETAILERS&nbsp;",
           "meta": "For retailers"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures13",
-          "_styles": {
-            ".etl-icon": {
-              "color": "#666666"
-            }
-          },
-          "_anchor": "extFeatures13-1f",
-          "_params": {
-            "iconsColor": "#666666",
-            "blocks": "3",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showDates": true
-          },
-          "mainTitle": "SERVICES FOR RETAILERS",
-          "mainSubtitle": "Discover innovative Brands&nbsp;",
-          "date1": "&nbsp;",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-extFeatures2",
-              "linkInNewWindow": false,
-              "name": "layers",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#4c6972"
-            }
-          },
-          "title1": "1. SOURCE BRANDS",
-          "text1": "Source brands online or with our Brand Joys catalog.&nbsp;",
-          "date2": "&nbsp;",
-          "title2": "2. DISCUSS",
-          "text2": "Chat and transact directly.",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "upload",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#4c6972"
-            }
-          },
-          "date3": "&nbsp;",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "linegraph",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#4c6972"
-            }
-          },
-          "title3": "3. ORDER SECURELY",
-          "text3": "Order and buy securely.",
-          "date4": "4 April 2016",
-          "title4": "4. Design out of the box",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date5": "5 May 2016",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title5": "5. Awesome Reports",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date6": "6 June 2016",
-          "title6": "6. Multi Homepages",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-extFeatures2",
-              "name": "layers",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date7": "7 July 2016",
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "upload",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title7": "7. Responsive Design",
-          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date8": "8 August 2016",
-          "title8": "8. Smart Watch",
-          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date9": "9 September 2016",
-          "media9": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title9": "9. Design out of the box",
-          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date10": "10 October 2016",
-          "title10": "10. Awesome Reports",
-          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media10": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date11": "11 November 2016",
-          "media11": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title11": "11. Design out of the box",
-          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date12": "12 December 2016",
-          "title12": "12. Awesome Reports",
-          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media12": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "bottomTitle": "GET YOUR ORDER"
         },
         {
           "_inherit": "msg-box5",
@@ -1451,92 +1233,6 @@
           "title": "IFM PARIS EVENT",
           "text": "NEXT DIGITAL FASHION EVENT COMING SOON...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=gXBqm9nM0YU\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=HNanHA0b7Ec \" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            },
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-14",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "hidden",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "PRICING TABLE",
-          "subtitle": "Discover the first innovative fashion and wearable marketplace community.<br>Manage your buying and selling from anywhere. Highly secure.<br>",
-          "label1": "HOT!",
-          "title1": "FOR RETAILER",
-          "subtitle1": "sourcing brands",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "/mo.",
-          "description1": "Limited offer",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Single checkout&nbsp;</li><li class=\"list-group-item\">Unlimited access brands</li><li class=\"list-group-item\">Feedback &amp; rewards</li><li class=\"list-group-item\">Tag and register favorit apparels</li><li class=\"list-group-item\">Contact &amp; chat directly</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/buyer/account\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "FOR BRANDS",
-          "subtitle3": "selling brands and sourcing textiles &amp; raw materials",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "Limited offer",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Online showroom brand</li><li class=\"list-group-item\">No paid subscription</li><li class=\"list-group-item\">Social media sharing</li><li class=\"list-group-item\">Unlimited sales</li><li class=\"list-group-item\">Analytic tools</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/user/account\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
-          "label4": "HOT!",
-          "title4": "FOR FABRICS &amp; MANUFACTURERS",
-          "subtitle4": "supplying and manufacturing",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Limited offer",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Online raw materials and manufacturers</li><li class=\"list-group-item\">No paid subscription</li><li class=\"list-group-item\">Social media sharing</li><li class=\"list-group-item\">Unlimited sales</li><li class=\"list-group-item\">Analytic tools</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"http://b2bmarketplace.brandjoys.com/supplier/account\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
